@@ -17,3 +17,7 @@
 > 16. [微软api-guidelines学习文档](https://github.com/microsoft/api-guidelines)
 > 17. [FluentScheduler任务调度定时器库](https://github.com/fluentscheduler/FluentScheduler)
 > 18. [Asp.net 实现Session分布式储存项目](https://github.com/Emrys5/Asp.net-CustomSessionState)
+> 19. [Dapper数据库操作](https://github.com/StackExchange/Dapper)
+> 20. [akka.net Actor分布式异步编程库](https://github.com/akkadotnet/akka.net)
+> 21. [AngleSharp <>解析器,爬虫库](https://github.com/AngleSharp/AngleSharp)
+> 22. [QRCoder二维码库](https://github.com/codebude/QRCoder/)
