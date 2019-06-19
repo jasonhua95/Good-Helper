@@ -1,4 +1,5 @@
 ### github上的好项目
+> 6. [github net开源项目排名列表](https://github.com/topics/dotnet)
 > 1. [github忽视文件](https://github.com/github/gitignore)
 > 2. [微软eshop项目](https://github.com/dotnet-architecture/eShopOnContainers)
 > 3. [AspNet源码](https://github.com/aspnet/AspNetCore)
@@ -22,3 +23,8 @@
 > 21. [AngleSharp <>解析器,爬虫库](https://github.com/AngleSharp/AngleSharp)
 > 22. [QRCoder二维码库](https://github.com/codebude/QRCoder/)
 > 23. [npoi Excel操作库](https://github.com/tonyqus/npoi)
+> 1. [Python-100-Days Python学习](https://github.com/jackfrued/Python-100-Days)
+> 2. [程序员技术文档](https://github.com/0voice/from_coder_to_expert)
+> 3. [FEBS-Vue Vue后台管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
+> 4. [advanced-java 工程师进阶](https://github.com/doocs/advanced-java)
+> 5. [awesome-dotnet dotnet资料](https://github.com/quozd/awesome-dotnet)
