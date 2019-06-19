@@ -15,5 +15,5 @@
 > 14. [redmine项目](https://github.com/redmine/redmine)
 > 15. [H-ui.admin前端项目](https://github.com/jackying/H-ui.admin)
 > 16. [微软api-guidelines学习文档](https://github.com/microsoft/api-guidelines)
-> 17. [任务调度定时器库](https://github.com/fluentscheduler/FluentScheduler)
+> 17. [FluentScheduler任务调度定时器库](https://github.com/fluentscheduler/FluentScheduler)
 > 18. [Asp.net 实现Session分布式储存项目](https://github.com/Emrys5/Asp.net-CustomSessionState)
