@@ -1,5 +1,5 @@
 ### github上的好项目
-> 6. [github net开源项目排名列表](https://github.com/topics/dotnet)
+> 1. [github net开源项目排名列表](https://github.com/topics/dotnet)
 > 1. [github忽视文件](https://github.com/github/gitignore)
 > 2. [微软eshop项目](https://github.com/dotnet-architecture/eShopOnContainers)
 > 3. [AspNet源码](https://github.com/aspnet/AspNetCore)
