@@ -22,3 +22,4 @@
 > 1. CacheManager Cache系列库          作者：MichaConrad
 > 1. ServiceStack.Redis Redis客户端库  作者：ServiceStack     
 > 1. CouchbaseNetClient Couchbase客户端库   作者：Couchbase, Inc.
+> 1. Microsoft.ML 微软机器学习库             作者：Microsoft
