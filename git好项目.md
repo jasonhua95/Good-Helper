@@ -19,6 +19,7 @@
 > 15. [H-ui.admin前端项目](https://github.com/jackying/H-ui.admin)
 > 18. [Asp.net 实现Session分布式储存项目](https://github.com/Emrys5/Asp.net-CustomSessionState)
 > 3. [FEBS-Vue Vue后台管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
+> 6. [OAuth认证项目](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
 
 ### github上好的资料
 > 1. [微软api-guidelines学习文档](https://github.com/microsoft/api-guidelines)
@@ -26,4 +27,3 @@
 > 2. [程序员技术文档](https://github.com/0voice/from_coder_to_expert)
 > 4. [advanced-java 工程师进阶](https://github.com/doocs/advanced-java)
 > 5. [awesome-dotnet dotnet资料](https://github.com/quozd/awesome-dotnet)
-> 6. [OAuth认证项目](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
