@@ -29,3 +29,4 @@
 > 1. Ocelot 网管库              作者：Tom Pallister
 > 1. Autofac IOC容器库          作者：Autofac Contributors
 > 1. Microsoft.Extensions.ObjectPool 对象池库  作者：Microsoft
+> 1. Elasticsearch.Net 搜索引擎库              作者：Elastic and contributors
