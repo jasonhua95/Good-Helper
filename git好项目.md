@@ -26,3 +26,4 @@
 > 2. [程序员技术文档](https://github.com/0voice/from_coder_to_expert)
 > 4. [advanced-java 工程师进阶](https://github.com/doocs/advanced-java)
 > 5. [awesome-dotnet dotnet资料](https://github.com/quozd/awesome-dotnet)
+> 6. [OAuth认证项目](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
