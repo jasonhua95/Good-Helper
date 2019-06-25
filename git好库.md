@@ -23,3 +23,4 @@
 > 1. ServiceStack.Redis Redis客户端库  作者：ServiceStack     
 > 1. CouchbaseNetClient Couchbase客户端库   作者：Couchbase, Inc.
 > 1. Microsoft.ML 微软机器学习库             作者：Microsoft
+> 1. NLog Log日志库             作者：Jarek Kowalski,Kim Christensen,Julian Verdurmen
