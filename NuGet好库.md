@@ -26,3 +26,6 @@
 > 1. NLog Log日志库             作者：Jarek Kowalski,Kim Christensen,Julian Verdurmen
 > 1. Selenium.WebDriver 自动化测试库   作者：Selenium Committers
 > 1. xunit 测试库               作者：James Newkirk,Brad Wilson
+> 1. Ocelot 网管库              作者：Tom Pallister
+> 1. Autofac IOC容器库          作者：Autofac Contributors
+> 1. Microsoft.Extensions.ObjectPool 对象池库  作者：Microsoft
