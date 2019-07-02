@@ -1,7 +1,7 @@
 #目前下面的是google翻译的，有空会逐步更改。
 # Awesome .NET Core 
-> 1.源地址https://github.com/thangchung/awesome-dotnet-core
-> 2.版权所有https://github.com/thangchung/awesome-dotnet-core
+> 1. 源地址https://github.com/thangchung/awesome-dotnet-core
+> 2. 版权所有https://github.com/thangchung/awesome-dotnet-core
 
 ##内容
 
