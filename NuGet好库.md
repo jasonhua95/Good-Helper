@@ -30,3 +30,4 @@
 > 1. Autofac IOC容器库          作者：Autofac Contributors
 > 1. Microsoft.Extensions.ObjectPool 对象池库  作者：Microsoft
 > 1. Elasticsearch.Net 搜索引擎库              作者：Elastic and contributors
+> 1. Topshelf .NET构建Windows服务              作者：Chris Patterson,Dru Sellers,Travis Smith
