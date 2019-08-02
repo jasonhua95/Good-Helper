@@ -20,6 +20,7 @@
 > 18. [Asp.net 实现Session分布式储存项目](https://github.com/Emrys5/Asp.net-CustomSessionState)
 > 3. [FEBS-Vue Vue后台管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
 > 6. [OAuth认证项目](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
+> 1. [dotnetcore中国社区](https://github.com/dotnetcore)
 
 ### github上好的资料
 > 1. [微软api-guidelines学习文档](https://github.com/microsoft/api-guidelines)
