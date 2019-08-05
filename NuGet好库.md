@@ -21,6 +21,7 @@
 > 1. Microsoft.Extensions.ObjectPool 对象池库  作者：Microsoft
 > 1. Elasticsearch.Net 搜索引擎库              作者：Elastic and contributors
 > 1. Topshelf .NET构建Windows服务              作者：Chris Patterson,Dru Sellers,Travis Smith
+> 1. NVelocity 模板引擎         作者：Castle Project Contributors
 
 
 ### C#好库源码
