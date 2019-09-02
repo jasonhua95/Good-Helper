@@ -29,6 +29,7 @@
 > 4. [advanced-java 工程师进阶](https://github.com/doocs/advanced-java)
 > 5. [awesome-dotnet dotnet资料](https://github.com/quozd/awesome-dotnet)
 > 1. [常用的操作类的类库](https://github.com/XiLife-OSPC/Masuit.Tools)
+> 1. [常用操作类2](https://github.com/Jimmey-Jiang/Common.Utility)
 > 1. [超简迷你版的ASP.NET Core框架](https://github.com/XiLife-OSPC/AspNetCore.Mini)
 > 1. [手写mvc框架](https://github.com/EdisonChou/EDC.AspNetMvc.Framework)
 > 1. [23种面向对象设计模式](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
