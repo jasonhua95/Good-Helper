@@ -21,6 +21,7 @@
 > 3. [FEBS-Vue Vue后台管理系统](https://github.com/wuyouzhuguli/FEBS-Vue)
 > 6. [OAuth认证项目](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)
 > 1. [dotnetcore中国社区](https://github.com/dotnetcore)
+> 1. [开源的网站](https://github.com/siteserver/cms/)
 
 ### github上好的资料
 > 1. [微软api-guidelines学习文档](https://github.com/microsoft/api-guidelines)
