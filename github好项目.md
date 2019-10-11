@@ -35,4 +35,5 @@
 > 1. [手写mvc框架](https://github.com/EdisonChou/EDC.AspNetMvc.Framework)
 > 1. [23种面向对象设计模式](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
 > 1. [C#算法和数据结构](https://github.com/aalhour/C-Sharp-Algorithms)
-> 1. [ABP项目](https://github.com/aspnetboilerplate/aspnetboilerplate)
+> 1. [ABP项目](https://github.com/aspnetboilerplate/aspnetboilerplate)  [帮助文档](https://aspnetboilerplate.com/Pages/Documents/Introduction)
+> 1. [ABP项目](https://github.com/abpframework/)  [帮助文档](https://docs.abp.io/zh-Hans/abp/latest/Getting-Started-Console-Application)
